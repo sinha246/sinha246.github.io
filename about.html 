@@ -7,26 +7,30 @@
     <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
   </head>
 
-  <body>
-  <div>
+  <body class="about">
+  <div> 
     <img src="assets/img/logo.png" />
-     <h1>Arunima Sinha</h1>
-     <a href="about.html">about</a>
-     </div>
+  <h1>Arunima Sinha</h1>
+     <a href="index.html">back to home page</a> 
 
-  <div>
-  <h2>Labs</h2>
+     </div>
+      <div>
+  <p> I am a person who believes that enjoyment. 
+
+      </div>
+
+  
+
+
+
   <ul>
-    <li><a href=http://"labs/html/index.html">Basic HTML</a></li>
-    <li><a href="labs/css-grid/index.html">CSS grids</a><li> 
-    <li><a href="labs/positionin/index.html">Position<a><li>
+     <li><a href="http://briansw.github.io/labs/html/index.html">Basic HTML</a><li>
   </ul>
 
-  <h2>Tracks</h2>
+  <h3>Tracks 1</h3>
   <ul>
-    <li><a href="track-1/index.html">Track 1</a><li>
-    
-    <li><a href="track-2/index.html">Track 2 </a><li>
+    <li><a href="http://sinha246.github.io/track-1/index.html">Track 1</a><li>
+    </ul>
 
 
 

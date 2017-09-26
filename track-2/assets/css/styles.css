@@ -1,0 +1,35 @@
+.color{
+	background: #32BBA6;
+}
+}
+.first{
+	font-family: Goudy Old Style;
+    font-size: 30px;
+}
+
+.second{
+	font-family: Andale Mono;
+
+}
+
+.firstimage{
+	width: 500px;
+	height: 300px;
+}
+
+
+.secondimage{
+	width: 500px;
+	height: 300px;
+}
+
+.thirdimage{
+	width: 500px;
+	height: 300px;
+}
+
+
+div{
+	margin-left: 200px;
+}
+
