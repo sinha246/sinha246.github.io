@@ -7,3 +7,106 @@
     font-size: 30px;
     color: #fff;
 }
+
+
+
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+.left {
+    position: absolute;
+    left: : 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.firstimage{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+	height: 300px;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+.left  {
+    position: absolute;
+    left: : 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+ }
+
+.secondimage{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+	height: 300px;
+}
+
+.right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.left  {
+    position: absolute;
+    left: : 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+ }
+
+.thirdimage{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+	height: 300px;
+}
+
+.left  {
+    position: absolute;
+    left: : 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+ }
+
+ .right {
+    position: absolute;
+    right: 0px;
+    width: 300px;
+    border: 3px solid #73AD21;
+    padding: 10px;
+}
+
+.fourthimage{
+    display: block;
+    margin: 0 auto;
+    width: 500px;
+	height: 300px;
+}
+
+
+
+
+
+
+
+
+
+
+
