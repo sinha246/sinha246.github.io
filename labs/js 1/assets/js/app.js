@@ -1,4 +1,4 @@
-var cash = 10000;
+var cash = 14000;
 
 update_wallet() ;
 
