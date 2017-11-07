@@ -12,14 +12,14 @@ $ ('.item').click (function() {
 function charge_card(amount, item) { 
 if (cash >= amount) { 
 cash = cash - amount;
-update_wallet () ;
+update_wallet();
 $ ('.closet-items').append(item + ', '); 
 } else {
   alert ('Not enough money.' );
 } 
 }
 
-function update_wallet () {
+function update_wallet() {
 	$('.cash').html(cash);
 }
 
