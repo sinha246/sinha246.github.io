@@ -1,2 +1,47 @@
+.image { 
+   position: relative; 
+   width: 100%;
+}
 
 
+
+.first{
+  font-family: Goudy Old Style;
+    font-size: 30px;
+}
+
+
+
+*{ vertical-align: top;  }
+
+body{
+  margin: 0;
+  padding: 0;
+  font-size: 0;
+}
+
+.wrapper {
+  background: #000000;
+  width: 960px;
+  margin: 0 auto 0 auto;
+}
+
+.c {  
+  font-size: 15px;
+  display: inline-block;
+  background: #000000;
+  margin: 0 15px 50px 15px;
+}
+
+.no-left-gutter { margin-left: 0; }
+.no-right-gutter {margin-right: 0; }
+.whitespace-fix { font-size: 0; }
+
+.c1 { width: 130px; }  
+.c2 { width: 290px; background: #000000;} 
+.c3 { width: 450px; }
+.c4 { width: 610px; }
+.c5 { width: 770px; }
+.c6 { width: 930px; } 
+
+img { width: 100%; }
