@@ -1,0 +1,18 @@
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px blue;
+    padding: 25px;
+    margin: 25px;
+}
+
+div {
+    background-color: lightgrey;
+    width: 300px;
+    border: 25px orange;
+    padding: 25px;
+    margin: 25px;
+}
+
+a {
+    color: hotpink;
