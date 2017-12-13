@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Arunima Sinha</title>
+    <link href="assets/css/styles.css" media="all" rel="stylesheet" />
+    <link rel="shortcut icon" href="" />
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+  </head>
+
+  <body class="about">
+  <div> 
+    <img src="assets/img/logo.png" />
+  <h1>Arunima Sinha</h1>
+     <a href="index.html">back to home page</a> 
+
+     </div>
+      <div>
+  <p> I am a person who believes that enjoyment. 
+
+      </div>
+
+  
+
+
+
+  <ul>
+     <li><a href="http://briansw.github.io/labs/html/index.html">Basic HTML</a><li>
+  </ul>
+
+  <h3>Tracks 1</h3>
+  <ul>
+    <li><a href="http://sinha246.github.io/track-1/index.html">Track 1</a><li>
+    </ul>
+
+
+
+    
+
+  
+    <script src="assets/js/app.js"></script>
+    
+  
+
+
+
+
+  </body>
+</html>
